@@ -48,6 +48,8 @@
     padding: 70px;
 }
 .main{
+    width: 100%;
+    height: auto;
     display: flex;
     justify-content: center;
     align-self: center;
